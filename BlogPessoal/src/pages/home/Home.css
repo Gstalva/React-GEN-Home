@@ -2,12 +2,17 @@
     background-color: white;
 }
 
-.titulo{
+h2{
     color: #274e7a;
     text-align: center; 
 }
 
-.img{
+p{
+    color: #274e7a;
+    text-align: center;
+}
+
+img{
     width: 500px;
     height: 500px;
     display: block;
